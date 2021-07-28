@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "a3a50c0246448382",
+    "type": "split",
+    "children": [
+      {
+        "id": "fed524cfcf15a224",
+        "type": "leaf",
+        "dimension": 78.26086956521739,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript高级程序设计/第二十七章 工作者线程.md",
+            "mode": "source"
+          }
+        },
+        "group": "cdfed93ebf9eb98e"
+      },
+      {
+        "id": "42319ade54bb2245",
+        "type": "leaf",
+        "dimension": 21.73913043478261,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "JavaScript高级程序设计/第二十七章 工作者线程.md"
+          }
+        },
+        "group": "cdfed93ebf9eb98e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f758a2ebd7d20d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "820681a8c5a774f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc589096c3073b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b36bbb02d6d5339",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3205c653a5fde513",
+    "type": "split",
+    "children": [
+      {
+        "id": "5efab5160576c35a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af47ff41029aab4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript高级程序设计/第二十七章 工作者线程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "55fa4edf92c156af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript高级程序设计/第二十七章 工作者线程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fed524cfcf15a224",
+  "lastOpenFiles": [
+    "JavaScript高级程序设计/第二十七章 工作者线程.md",
+    "SDK/动态加载sdk.md",
+    "SDK/未命名.md",
+    "样式/未命名.md",
+    "未命名.md",
+    "Markdown/未命名.md",
+    "Nuxt/未命名.md",
+    "前端/点击事件.md",
+    "前端/模块化.md",
+    "前端/未命名.md"
+  ]
+}
