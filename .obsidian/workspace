@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript高级程序设计/第二十七章 工作者线程.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JavaScript高级程序设计/第二十七章 工作者线程.md"
+            "file": "README.md"
           }
         },
         "group": "cdfed93ebf9eb98e"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript高级程序设计/第二十七章 工作者线程.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript高级程序设计/第二十七章 工作者线程.md"
+                "file": "README.md"
               }
             }
           }
@@ -112,11 +112,11 @@
   },
   "active": "fed524cfcf15a224",
   "lastOpenFiles": [
+    "未命名.md",
     "JavaScript高级程序设计/第二十七章 工作者线程.md",
     "SDK/动态加载sdk.md",
     "SDK/未命名.md",
     "样式/未命名.md",
-    "未命名.md",
     "Markdown/未命名.md",
     "Nuxt/未命名.md",
     "前端/点击事件.md",
