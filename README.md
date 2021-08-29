@@ -8,3 +8,14 @@
 		- mini webpack
 		- mini typescript
 		- ···
+8月份挑战失败
+- 9月份
+	- 把红宝书剩下章节看完并输出文档
+		- 第20章 JavaScript API 
+		- 第19章 表单脚本
+		- 第18章 动画与Canvas图形
+		- 第17章 事件
+		- 第16章 DOM2和DOM3
+		- 第15章 DOM扩展
+		- 第14章 DOM
+		- ···
