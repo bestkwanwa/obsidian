@@ -8,7 +8,7 @@
 }.call(this,__webpack_require__('3UD+')(module),__webpack_require__('yLpj')))
 ```
 我们顺藤摸瓜，看看到底传入了啥（前面的注释很关键）。
-![global](assets/global.png)
+![global](../assets/global.png)
 原来这里导入了一个模块！而这个模块判断环境并导出了全局对象。
 ```js
 // ./../../node_modules/webpack/buildin/global.js
