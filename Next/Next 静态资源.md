@@ -1,0 +1,10 @@
+`public`和`static`目录
+```javascript
+/public
+    /static
+        /images
+        /css
+        /fonts
+    robots.txt
+    manifest.json
+```
