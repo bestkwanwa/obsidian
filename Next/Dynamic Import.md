@@ -8,7 +8,7 @@ import PcIndex from '@/Pc/Index';	// console.log('This is pc index page.')
 ```
 服务端：
 ![服务端](../assets/sc_3.png)
-客户端端：
+客户端：
 ![客户端](../assets/sc_4.png)
 可见，没有使用动态引入，则都被引入了。实际上只访问了pc或mobile的首页，不需要两个首页都引入。
 ## 使用动态引入
