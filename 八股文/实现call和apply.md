@@ -96,6 +96,20 @@ function bar(name, age) {
 console.log(bar.myCall(null, 'abc', 12))
 ```
 
+## 实现apply
+```js
+Function.prototype.myApply = function (ctx, arr) {
+    !arr ? (args = []) : (args = new Array(arr.length))
+    for (var i = 0; i < args.length; i++) {
+        args.push(`arr[${i}]`)
+    }
+    ctx = ctx || window
+    ctx.fn = this
+    var result = eval(`ctx.fn(${args})`)
+    delete ctx.fn
+    return result
+}
+```
+
 ## References
-- [JavaScript深入之call和apply的模拟实现
-](https://github.com/mqyqingfeng/Blog/issues/11)
+- [JavaScript深入之call和apply的模拟实现](https://github.com/mqyqingfeng/Blog/issues/11)
