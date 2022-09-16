@@ -20,6 +20,6 @@ TCP/IP 作为传输层协议，HTTP 作为应用层协议。
 - 重定向
 
 ## 总结
-![http请求流程](../assets//http.png)
+![http请求流程](../../assets/http.png)
 
 

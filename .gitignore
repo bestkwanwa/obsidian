@@ -27,3 +27,6 @@ pnpm-debug.log*
 
 # obsidian
 /.obsidian
+
+# debug
+ignore
