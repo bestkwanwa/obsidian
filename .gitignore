@@ -23,7 +23,7 @@ pnpm-debug.log*
 *.sw?
 
 # Co.
-/co.
+/co
 
 # obsidian
 /.obsidian
